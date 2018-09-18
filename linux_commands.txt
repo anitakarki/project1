@@ -1,0 +1,9 @@
+Essential Linux commands for beginners:
+
+ls -ltra : List in reverse time
+cat : view contents of a file without opening it
+pwd: present working directory
+mkdir: create a new folder 
+cd: change directory
+
+
